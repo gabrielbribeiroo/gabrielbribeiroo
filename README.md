@@ -4,7 +4,7 @@
 ⚡About me:
 
 - 🔭 Computer Science Undergraduate at UFPB
-- 🌱 Interested in Software Engineering and AI
+- 🌱 Interested in Software Engineering, AI and Startups
 - 📩 Contact: gabrielbroliveira@gmail.com
 
 
@@ -17,16 +17,15 @@
 
 ## Technologies
 <div style="display: inline_block"><cbr>
+  <img align = "top" alt = "Gabriel_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align = "top" alt = "Gabriel_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
   <img align = "top" alt = "Gabriel_HTML" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align = "top" alt = "Gabriel_CSS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align = "top" alt = "Gabriel_JS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align = "top" alt = "Gabriel_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align = "top" alt = "Gabriel_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
 </div>
 
 ## Contact
 <div> 
-<a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://api.whatsapp.com/send/?phone=558396360103&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 <a href = "mailto:gabrielbroliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
