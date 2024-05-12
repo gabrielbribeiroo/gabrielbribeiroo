@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi 👋, I'm Gabriel Ribeiro. 
+## Welcome to my GitHub profile.
 
-<!--
-**gabrielbribeiroo/gabrielbribeiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡About me:
 
-Here are some ideas to get you started:
+- 🔭 Computer Science Undergraduate at UFPB
+- 🌱 Interested in Software Engineering and AI
+- 📩 Contact: gabrielbroliveira@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Status
+<div align="left">
+  <a href="https://github.com/gabrielbribeiroo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+## Technologies
+<div style="display: inline_block"><cbr>
+  <img align = "top" alt = "Gabriel_HTML" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align = "top" alt = "Gabriel_CSS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "top" alt = "Gabriel_JS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align = "top" alt = "Gabriel_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align = "top" alt = "Gabriel_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+</div>
+
+## Contact
+<div> 
+<a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://api.whatsapp.com/send/?phone=558396360103&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+<a href = "mailto:gabrielbroliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+</div>
