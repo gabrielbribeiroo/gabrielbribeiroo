@@ -4,7 +4,11 @@
 ⚡About me:
 
 - 🔭 Computer Science Undergraduate at UFPB
-- 🌱 Interested in Software Engineering, AI and Startups
+- 🌱 Interests:
+  - Software Engineering
+  - Artifical Intelligence
+  - Data Science
+  - Startups
 - 📩 Contact: gabrielbroliveira@gmail.com
 
 
