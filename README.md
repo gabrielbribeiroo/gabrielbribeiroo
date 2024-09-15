@@ -24,11 +24,14 @@
 
 ## Technologies
 <div style="display: inline_block"><cbr>
-  <img align = "top" alt = "Gabriel_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align = "top" alt = "Gabriel_C++" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-  <img align = "top" alt = "Gabriel_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img align = "top" alt = "Gabriel_Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align = "top" alt = "Gabriel_SQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img align = "top" alt = "gabrielbribeiroo_HTML" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_CSS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_JavaScript" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_C++" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+  <img align = "top" alt = "gabrielbribeiroo_Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+  <img align = "top" alt = "gabrielbribeiroo_SQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 </div>
 
 ## Contact
