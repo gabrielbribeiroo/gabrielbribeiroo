@@ -2,14 +2,20 @@
 ## Welcome to my GitHub profile.
 
 ⚡About me:
-
 - 🔭 Computer Science Undergraduate at Federal University of Paraíba (UFPB)
-- 🌱 Interests:
-  - Web Development (front-end and back-end)
-  - Artifical Intelligence
-  - Data Science
-  - Software Engineering
-  - Startups
+- 🌱 Areas of interest:
+  - 🌐 Web Development (front-end and back-end)
+  - 🤖 Artifical Intelligence
+  - 📊 Data Science
+  - 🖥️ Software Engineering
+  - 💼 Startups
+- 😁 Hobbies:
+  - 👨🏻‍💻 Programming
+  - 📽️ Watch movies and series
+  - 🎵 Listen to music
+  - 💪🏻 Gym
+  - 👨🏻‍🏫 Teach
+  - 📚 Read about health, education, business and finance
 - 🔍 Exploring new technologies and programming languages
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
 - 📩 Contact: gabrielbroliveira@gmail.com
