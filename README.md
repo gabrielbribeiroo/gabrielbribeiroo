@@ -5,9 +5,10 @@
 
 - 🔭 Computer Science Undergraduate at UFPB
 - 🌱 Interests:
-  - Software Engineering
+  - Web Development  
   - Artifical Intelligence
   - Data Science
+  - Software Engineering
   - Startups
 - 📩 Contact: gabrielbroliveira@gmail.com
 
