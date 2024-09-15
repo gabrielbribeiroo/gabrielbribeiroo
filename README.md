@@ -15,7 +15,7 @@
   - 🎵 Listen to music
   - 💪🏻 Gym
   - 👨🏻‍🏫 Teach
-  - 📚 Read about health, education, business and finance
+  - 📚 Research and study about health, education, business and finance
 - 🔍 Exploring new technologies and programming languages
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
 - 📩 Contact: gabrielbroliveira@gmail.com
