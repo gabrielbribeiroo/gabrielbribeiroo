@@ -5,7 +5,7 @@
 - 🔭 Computer Science Undergraduate at Federal University of Paraíba (UFPB)
 - 🌱 Areas of interest:
   - 🌐 Web Development (front-end and back-end)
-  - 🤖 Artifical Intelligence
+  - 🤖 Artificial Intelligence
   - 📊 Data Science
   - 🖥️ Software Engineering
   - 💼 Startups
