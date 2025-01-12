@@ -22,8 +22,8 @@
 ## Status
 <div align="center">
   <a href="https://github.com/gabrielbribeiroo">
-  <img height="180em" alt="Gabriel_GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=false"/>
-  <img height="180em" alt="Gabriel_GitHub_Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=15&theme=dark"/>
+  <img height="200em" alt="Gabriel_GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=false"/>
+  <img height="200em" alt="Gabriel_GitHub_Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=15&theme=dark"/>
 </div>
 
 ## Technologies
@@ -42,9 +42,9 @@
 </div>
 
 ## Contact
-<div> 
-  <a href="https://www.github.com/gabrielbribeiroo/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabrielbroliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ribeiro1000/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div>
+  <a href="https://www.github.com/gabrielbribeiroo/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"></a>
+  <a href="mailto:gabrielbroliveira@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="30" height="30"></a>
+  <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 32px; height: 32px;"></a>
+  <a href="https://www.linkedin.com/in/gabriel-ribeiro1000/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"></a>
 </div>
