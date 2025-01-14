@@ -71,8 +71,8 @@
 
 ## Contact
 <div>
-  <a href="https://www.github.com/gabrielbribeiroo/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="30" height="30"></a>
-  <a href="mailto:gabrielbroliveira@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="30" height="30"></a>
-  <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 32px; height: 32px;"></a>
-  <a href="https://www.linkedin.com/in/gabriel-ribeiro1000/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"></a>
+  <a href="https://www.github.com/gabrielbribeiroo/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"></a>
+  <a href="mailto:gabrielbroliveira@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="50" height="50"></a>
+  <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 50px; height: 50px;"></a>
+  <a href="https://www.linkedin.com/in/gabriel-ribeiro1000/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"></a>
 </div>
