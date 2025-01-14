@@ -27,17 +27,17 @@
 </div>
 
 ## Technologies
-### Back-end
+
+### 🖥 Back-end
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_Prolog" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_FastAPI" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
+  <img align = "top" alt = "gabrielbribeiroo_ASM" height = "50" width = "50" src="https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white" />
   <img align = "top" alt = "gabrielbribeiroo_VSCode" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_PowerShell" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_ASM" height = "50" width = "50" src="https://img.icons8.com/ios/50/000000/source-code.png" />
 </div>
 
-### Front-end
+### 🌐 Front-end
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_HTML" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_CSS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
@@ -45,25 +45,29 @@
   <img align = "top" alt = "gabrielbribeiroo_Bootstrap" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
 </div>
 
-### APIs and Integrations
+### 🛠 APIs and Integrations
 <div style="display: inline_block"><cbr> 
+  <img align = "top" alt = "gabrielbribeiroo_FastAPI" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_REST API" height = "50" width = "50" src="https://img.icons8.com/fluency/48/api.png" /> 
 </div>
 
-### Data Science and Machine Learning
-<div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_Pandas" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Jupyter" height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_SQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-</div>
-
-### General Programming Languages
+### 🎯 General Programming Languages
+#### 🔧 Systems Programming
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_C++" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
+</div>
+
+#### 🖥 Object-Oriented Programming
+<div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Haskell" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> </div>
-  
+</div>
+
+#### 🧠 Functional Programming
+<div style="display: inline_block"><cbr> 
+  <img align = "top" alt = "gabrielbribeiroo_Haskell" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> 
+</div>
+
 
 ## Contact
 <div>
