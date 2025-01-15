@@ -1,5 +1,6 @@
-# Hi 👋, I'm Gabriel Ribeiro. 
-## Welcome to my GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFF2&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFF2&size=35&center=true&vCenter=true&width=1000&lines=Hello+There!;I'm+Gabriel+Ribeiro,+Welcome+to+my+profile👋:%29)](https://git.io/typing-svg)
 
 ⚡About me:
 - 🔭 Computer Science Undergraduate at Federal University of Paraíba (UFPB)
@@ -81,3 +82,5 @@
   <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 50px; height: 50px;"></a>
   <a href="https://www.linkedin.com/in/gabriel-ribeiro1000/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"></a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFF2&height=120&section=footer"/>
