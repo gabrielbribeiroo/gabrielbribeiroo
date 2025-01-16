@@ -58,6 +58,11 @@
   <img align = "top" alt = "gabrielbribeiroo_REST API" height = "50" width = "50" src="https://img.icons8.com/fluency/48/api.png" /> 
 </div>
 
+### 💾 Databases
+<div style="display: inline_block"><cbr> 
+  <img align = "top" alt = "gabrielbribeiroo_MySQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+</div>
+
 ### 🎯 General Programming Languages
 #### 🔧 Systems Programming
 <div style="display: inline_block"><cbr> 
