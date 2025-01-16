@@ -61,6 +61,13 @@
 ### 💾 Databases
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_MySQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="top" alt="gabrielbribeiroo_SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+</div>
+
+### 📊 Data Analysis & Machine Learning
+<div style="display: inline_block"><cbr> 
+  <img align="top" alt="gabrielbribeiroo_Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 </div>
 
 ### 🎯 General Programming Languages
