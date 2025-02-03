@@ -56,6 +56,7 @@
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_FastAPI" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_REST API" height = "50" width = "50" src="https://img.icons8.com/fluency/48/api.png" /> 
+  <img align = "top" alt = "gabrielbribeiroo_Flask" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
 </div>
 
 ### 💾 Databases
