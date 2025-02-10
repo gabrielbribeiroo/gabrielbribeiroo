@@ -74,20 +74,12 @@
 </div>
 
 ### 🎯 General Programming Languages
-#### 🔧 Systems Programming
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_C++" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
 </div>
-
-#### 🖥 Object-Oriented Programming
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-</div>
-
-#### 🧠 Functional Programming
-<div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_Haskell" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" /> 
 </div>
 
 
