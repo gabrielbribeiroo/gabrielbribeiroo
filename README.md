@@ -21,6 +21,7 @@
   - 📚 Research and study about health, sports, education, logistics, business and finance
 - 🔍 Exploring new technologies and programming languages
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
+- 🔥 Available for technology jobs
 
 ## Status
 <div align="center">
