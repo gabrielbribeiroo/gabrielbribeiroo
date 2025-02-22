@@ -10,6 +10,7 @@
   - 🧠 Machine Learning
   - 📊 Data Science
   - 🖥️ Software Engineering
+  - 💵 Finances
   - 💼 Startups
 - 😁 Hobbies:
   - 👨🏻‍💻 Programming
