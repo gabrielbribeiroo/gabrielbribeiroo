@@ -87,8 +87,12 @@
 
 ## Contact
 <div>
-  <a href="https://www.github.com/gabrielbribeiroo/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"></a>
-  <a href="mailto:gabrielbroliveira@gmail.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="50" height="50"></a>
+  <a href="https://www.github.com/gabrielbribeiroo/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="50" height="50" style="background-color:#cce6ff; border-radius:10px; padding:5px;" />
+  </a>
+  <a href="mailto:gabrielbroliveira@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" alt="Gmail" width="50" height="50" style="background-color:#cce6ff; border-radius:10px; padding:5px;" />
+  </a>
   <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 50px; height: 50px;"></a>
   <a href="https://www.linkedin.com/in/gabrielbribeiroo/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"></a>
 </div>
