@@ -93,7 +93,9 @@
   <a href="mailto:gabrielbroliveira@gmail.com">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="50" height="50" />
   </a>
-  <a href="https://www.instagram.com/gabrielbribeiroo/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width: 50px; height: 50px;"></a>
+  <a href="https://www.instagram.com/gabrielbribeiroo" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="50" height="50" />
+  </a>
   <a href="https://www.linkedin.com/in/gabrielbribeiroo/" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="50" height="50" />
   </a>
