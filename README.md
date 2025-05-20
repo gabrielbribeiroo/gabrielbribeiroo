@@ -10,6 +10,7 @@
   - 🧠 Machine Learning
   - 📊 Data Science
   - 🖥️ Software Engineering
+  - 📈 Operational Research
   - 💵 Finances
   - 💼 Startups
 - 😁 Hobbies:
@@ -18,7 +19,7 @@
   - 🎵 Listen to music
   - 💪🏻 Gym
   - 👨🏻‍🏫 Teach
-  - 📚 Research and study about health, sports, education, logistics, business and finance
+  - 📚 Research and study about health, sports, education, logistics, business, and finance
 - 🔍 Exploring new technologies and programming languages
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
 - 🔥 Available for technology jobs
