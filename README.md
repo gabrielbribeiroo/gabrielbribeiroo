@@ -51,12 +51,14 @@
 </div>
 
 ### 🌐 Front-end
-<div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_HTML" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_CSS" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_JavaScript" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_React" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Bootstrap" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+<div style="display: inline_block"><br> 
+  <img align="top" alt="gabrielbribeiroo_HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
+  <img align="top" alt="gabrielbribeiroo_NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ### 🛠 APIs and Integrations
