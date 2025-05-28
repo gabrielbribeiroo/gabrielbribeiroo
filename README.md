@@ -58,7 +58,7 @@
   <img align="top" alt="gabrielbribeiroo_React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
   <img align="top" alt="gabrielbribeiroo_Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="top" alt="gabrielbribeiroo_NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="top" alt="gabrielbribeiroo_Vite" height="50" width="50" src="https://upload.vectorlogo.zone/logos/vitejs/images/4d2f91d6-2b7c-44a6-94b8-294d0b89eebb.svg" />
+  <img align="top" alt="gabrielbribeiroo_Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
   <img align="top" alt="gabrielbribeiroo_npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 </div>
 
