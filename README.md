@@ -79,7 +79,8 @@
   <img align = "top" alt = "gabrielbribeiroo_JupyterNotebook" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
   <img align = "top" alt = "gabrielbribeiroo_Pandas" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_Matplotlib" height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-  <img align = "top" alt = "gabrielbribeiroo_NumPy" height ="50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_NumPy" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align = "top" alt = "gabrielbribeiroo_JSON" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
 </div>
 
 ### 🎯 General Programming Languages
