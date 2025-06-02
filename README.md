@@ -11,6 +11,7 @@
   - 📊 Data Science
   - 🖥️ Software Engineering
   - 📈 Operational Research
+  - 🧮 Optimization
   - 🎯 Competitive Programming
   - 💵 Finances
   - 💼 Startups
