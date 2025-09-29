@@ -92,8 +92,8 @@
   <img align = "top" alt = "gabrielbribeiroo_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_C++" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
   <img align = "top" alt = "gabrielbribeiroo_Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
+  <img align = "top" alt = "gabrielbribeiroo_Kotlin" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 </div>
-
 
 ## Contact
 <div>
