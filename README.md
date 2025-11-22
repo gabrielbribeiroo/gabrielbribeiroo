@@ -30,7 +30,7 @@
 <div align="center">
   <a href="https://github.com/gabrielbribeiroo">
   <img height="200em" alt="Gabriel_GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=true"/>
-  <img height="200em" alt="Gabriel_GitHub_Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=20&theme=dark"/>
+  <img height="200em" alt="Gabriel_GitHub_Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=20&theme=dark&count_private=true"/>
 </div>
 
 ## Technologies
