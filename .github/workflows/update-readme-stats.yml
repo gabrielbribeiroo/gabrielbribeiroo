@@ -1,32 +1,18 @@
-name: Update GitHub Readme Stats
+name: Refresh GitHub Readme Stats Cache
 
 on:
   schedule:
     - cron: "0 */12 * * *"   # Atualiza a cada 12 horas
   workflow_dispatch:          # Permite rodar manualmente
-  push:
-    branches:
-      - main                  # Caso edite o README na main
 
 jobs:
-  update-stats:
+  ping:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Refresh GitHub Readme Stats cache
+      - name: Hit GitHub Readme Stats API to refresh cache
         run: |
           curl -s "https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&count_private=true&show_icons=true" > /dev/null
-
-      - name: Commit README refresh (only if needed)
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add .
-          git commit -m "Update GitHub Readme Stats cache" || echo "No changes to commit"
-          git push
 
     env:
       PAT_1: ${{ secrets.PAT_1 }}
