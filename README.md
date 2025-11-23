@@ -29,8 +29,9 @@
 ## Status
 <div align="center">
   <a href="https://github.com/gabrielbribeiroo">
-  [<img height="200em" alt="Gabriel_GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&count_private=true&show_icons=true&random=123)
-  <img height="200em" alt="Gabriel_GitHub_Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=20&theme=dark&count_private=true"/>
+    <img src="https://streak-stats.demolab.com?user=gabrielbribeiroo&theme=dark"/>
+    [<img height="200em" alt="Gabriel_GitHub_Stats" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=true"/>](https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&count_private=true&show_icons=true&random=123)
+    <img height="200em" alt="Gabriel_GitHub_Languages" src="https://github-readme-stats.vercel.app/api/top-langs/username=gabrielbribeiroo&layout=compact&langs_count=20&theme=dark&count_private=true"/>
 </div>
 
 ## Technologies
