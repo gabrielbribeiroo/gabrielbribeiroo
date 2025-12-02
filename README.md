@@ -29,12 +29,13 @@
 ## Status
 
 <div align="center">
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=true"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=20&theme=dark"/>
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielbribeiroo&show_icons=true&theme=dark&count_private=true"/>
+  
+  <img height="200" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabrielbribeiroo&layout=compact&langs_count=20&theme=dark&count_private=true"/>
+  
   <img width="400" src="https://streak-stats.demolab.com?user=gabrielbribeiroo&theme=dark"/>
-
 </div>
+
 
 
 ## Technologies
