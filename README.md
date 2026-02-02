@@ -70,14 +70,17 @@
 
 ### 🛠 APIs and Integrations
 <div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_FastAPI" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_REST API" height = "50" width = "50" src="https://img.icons8.com/fluency/48/api.png" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Flask" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_FastAPI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
+  <img align="top" alt="gabrielbribeiroo_REST API" height="50" width="50" src="https://img.icons8.com/fluency/48/api.png" /> 
+  <img align="top" alt="gabrielbribeiroo_n8n" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" />
+  <img align="top" alt="gabrielbribeiroo_Supabase" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" />
 </div>
 
 ### 💾 Databases
 <div style="display: inline_block"><cbr> 
   <img align = "top" alt = "gabrielbribeiroo_MySQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="top" alt="PostgreSQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align = "top" alt="gabrielbribeiroo_SQLite" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
 
