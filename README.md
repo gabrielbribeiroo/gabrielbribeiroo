@@ -37,71 +37,26 @@
 
 </div>
 
-## Technologies
-
 ### 🔧 Development Tools
-<div style="display: inline_block"><cbr>
-  <img align = "top" alt = "gabrielbribeiroo_VSCode" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align = "top" alt = "gabrielbribeiroo_IntelliJ" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-  <img align = "top" alt = "gabrielbribeiroo_PyCharm" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />  
-  <img align = "top" alt = "gabrielbribeiroo_GoogleColab" height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" />
-  <img align = "top" alt = "gabrielbribeiroo_Beecrowd" height = "50" width = "50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrz7NX9atw6Xw7yxUkxj1r7btjIM4JMyA_Iw&s" />
-  <img align = "top" alt = "gabrielbribeiroo_PowerShell" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" />
-  <img align = "top" alt = "gabrielbribeiroo_Git" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-  
+<img align="top" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img align="top" alt="IntelliJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /><img align="top" alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /><img align="top" alt="GoogleColab" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" /><img align="top" alt="Beecrowd" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrz7NX9atw6Xw7yxUkxj1r7btjIM4JMyA_Iw&s" /><img align="top" alt="PowerShell" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" /><img align="top" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
 ### 🖥 Back-end
-<div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_Python" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Prolog" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" /> 
-</div>
+<img align="top" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="top" alt="Prolog" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" />
 
 ### 🌐 Front-end
-<div style="display: inline_block"><br> 
-  <img align="top" alt="gabrielbribeiroo_HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="top" alt="gabrielbribeiroo_NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="top" alt="gabrielbribeiroo_Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" />
-  <img align="top" alt="gabrielbribeiroo_npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-</div>
+<img align="top" alt="HTML" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img align="top" alt="CSS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img align="top" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img align="top" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /><img align="top" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /><img align="top" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /><img align="top" alt="Vite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" /><img align="top" alt="npm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 
 ### 🛠 APIs and Integrations
-<div style="display: inline_block"><cbr> 
-  <img align="top" alt="gabrielbribeiroo_FastAPI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_REST API" height="50" width="50" src="https://img.icons8.com/fluency/48/api.png" /> 
-  <img align="top" alt="gabrielbribeiroo_n8n" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" />
-  <img align="top" alt="gabrielbribeiroo_Supabase" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" />
-</div>
+<img align="top" alt="FastAPI" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" /><img align="top" alt="Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /><img align="top" alt="REST API" height="50" width="50" src="https://img.icons8.com/fluency/48/api.png" /><img align="top" alt="n8n" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" /><img align="top" alt="Supabase" height="50" width="50" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/supabase.svg" />
 
 ### 💾 Databases
-<div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_MySQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="top" alt="PostgreSQL" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align = "top" alt="gabrielbribeiroo_SQLite" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-</div>
+<img align="top" alt="MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /><img align="top" alt="PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /><img align="top" alt="SQLite" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 
 ### 📊 Data Analysis & Machine Learning
-<div style="display: inline_block"><br>
-  <img align="top" alt="gabrielbribeiroo_JupyterNotebook" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="top" alt="gabrielbribeiroo_Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> 
-  <img align="top" alt="gabrielbribeiroo_Matplotlib" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" />
-  <img align="top" alt="gabrielbribeiroo_Seaborn" height="50" width="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-  <img align="top" alt="gabrielbribeiroo_ScikitLearn" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
-  <img align="top" alt="gabrielbribeiroo_NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-  <img align="top" alt="gabrielbribeiroo_JSON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
-</div>
+<img align="top" alt="Jupyter" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /><img align="top" alt="Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /><img align="top" alt="Matplotlib" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" /><img align="top" alt="Seaborn" height="50" width="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" /><img align="top" alt="ScikitLearn" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /><img align="top" alt="NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /><img align="top" alt="JSON" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" />
 
 ### 🎯 General Programming Languages
-<div style="display: inline_block"><cbr> 
-  <img align = "top" alt = "gabrielbribeiroo_C" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_C++" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Java" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img align = "top" alt = "gabrielbribeiroo_Kotlin" height = "50" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-</div>
+<img align="top" alt="C" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img align="top" alt="C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img align="top" alt="Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><img align="top" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
 ## Contact
 <div>
