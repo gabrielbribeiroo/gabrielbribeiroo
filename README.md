@@ -7,8 +7,9 @@
 - 🌱 Areas of interest:
   - 🌐 Web Development (front-end and back-end)
   - 🤖 Artificial Intelligence
-  - 🧠 Machine Learning
   - 📊 Data Science
+  - 🧠 Machine Learning
+  - 🤖 Generative AI
   - 🖥️ Software Engineering
   - 📈 Operational Research
   - 🧮 Optimization
