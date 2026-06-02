@@ -46,6 +46,7 @@
 
   <img align="top" alt="OpenAI" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
   <img align="top" alt="Claude" height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" />
+  <img align="top" alt="Gemini" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" />
   <img align="top" alt="AssemblyAI" height="50" width="50" src="https://cdn.simpleicons.org/assemblyai" />
   <img align="top" alt="Tavily" height="50" width="50" src="https://cdn.simpleicons.org/tavily" />
 
