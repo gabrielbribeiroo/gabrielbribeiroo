@@ -42,15 +42,7 @@
 <img align="top" alt="VSCode" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /><img align="top" alt="IntelliJ" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /><img align="top" alt="PyCharm" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /><img align="top" alt="GoogleColab" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" /><img align="top" alt="Beecrowd" height="50" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrz7NX9atw6Xw7yxUkxj1r7btjIM4JMyA_Iw&s" /><img align="top" alt="PowerShell" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" /><img align="top" alt="Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 ### 🤖 LLMs, AI Agents & AI Services
-<div style="display: inline_block"><br>
-
-  <img align="top" alt="OpenAI" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" />
-  <img align="top" alt="Claude" height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" />
-  <img align="top" alt="Gemini" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" />
-  <img align="top" alt="AssemblyAI" height="50" width="50" src="https://cdn.simpleicons.org/assemblyai" />
-  <img align="top" alt="Tavily" height="50" width="50" src="https://cdn.simpleicons.org/tavily" />
-
-</div>
+<img align="top" alt="OpenAI" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" /><img align="top" alt="Claude" height="50" width="50" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" /><img align="top" alt="Gemini" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" />
 
 ### 🖥 Back-end
 <img align="top" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img align="top" alt="Prolog" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prolog/prolog-original.svg" />
