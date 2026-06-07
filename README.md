@@ -5,7 +5,7 @@
 ⚡About me:
 - 🔭 Computer Science Undergraduate at Federal University of Paraíba (UFPB)
 - 🌱 Areas of interest:
-  - 🌐 Web Development (front-end and back-end)
+  - 🌐 Web Development
   - 🤖 Artificial Intelligence
   - 📊 Data Science
   - 🧠 Machine Learning
