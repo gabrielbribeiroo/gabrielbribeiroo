@@ -23,7 +23,7 @@
   - 💪🏻 Gym
   - 👨🏻‍🏫 Teach
   - 📚 Research and study about health, sports, education, logistics, business, and finance
-- 🔍 Exploring new technologies and programming languages
+- 🔍 Exploring new technologies
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
 
 ## Status
