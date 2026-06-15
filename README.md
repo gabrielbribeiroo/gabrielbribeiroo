@@ -9,7 +9,6 @@
   - 🤖 Artificial Intelligence
   - 📊 Data Science
   - 🧠 Machine Learning
-  - 🤖 Generative AI
   - 🖥️ Software Engineering
   - 📈 Operational Research
   - 🧮 Optimization
