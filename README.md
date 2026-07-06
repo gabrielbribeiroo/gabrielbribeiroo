@@ -7,7 +7,6 @@
 - 🌱 Areas of interest:
   - 🤖 Artificial Intelligence
   - 📊 Data Science
-  - 🧠 Machine Learning
   - 🖥️ Software Engineering
   - 📈 Operational Research
   - 🎯 Competitive Programming
