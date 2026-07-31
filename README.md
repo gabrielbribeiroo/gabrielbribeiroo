@@ -18,7 +18,6 @@
   - 🎵 Listen to music
   - 💪🏻 Gym
   - 👨🏻‍🏫 Teach
-  - 📚 Research and study about health, sports, education, logistics, business, and finance
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
 
 ## Status
