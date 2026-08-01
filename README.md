@@ -15,7 +15,6 @@
 - 😁 Hobbies:
   - 👨🏻‍💻 Programming
   - 📽️ Watch movies and series
-  - 🎵 Listen to music
   - 💪🏻 Gym
   - 👨🏻‍🏫 Teach
 - 🚀 Improving personal projects in the area of ​​technology and entrepreneurship
