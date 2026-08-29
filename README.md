@@ -9,7 +9,6 @@
   - 📊 Data Science
   - 🖥️ Software Engineering
   - 📈 Operational Research
-  - 🎯 Competitive Programming
   - 💵 Finances
   - 💼 Startups
 - 😁 Hobbies:
